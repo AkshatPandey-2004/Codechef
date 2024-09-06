@@ -1,1 +1,1 @@
-# Codechef sol
+# Codechef solution 
