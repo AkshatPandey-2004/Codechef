@@ -1,1 +1,1 @@
-# Codechef solution 
+# Codechef solutions
